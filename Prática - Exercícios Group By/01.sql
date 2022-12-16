@@ -1,0 +1,1 @@
+SELECT COUNT(public.experiences."endDate") FROM public.experiences;
